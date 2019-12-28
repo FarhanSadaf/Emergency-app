@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".EmergencyActivity">
+
+    <TextView
+        android:id="@+id/countTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Stopped"
+        android:textSize="100dp"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="160dp"
+        />
+
+    <Button
+        android:id="@+id/stopButton"
+
+        android:text="STOP"
+        android:textColor="#FFFFFF"
+        android:clickable="true"
+        android:textSize="35sp"
+
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="@drawable/emergencybutton_shape"
+        />
+
+</LinearLayout>

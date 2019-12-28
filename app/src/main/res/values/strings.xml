@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BACHAO</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="sign_up">Already have an account? <u> Sign In </u></string>
+    <string name="sign_in">Not registered yet! <u> Sign Up </u></string>
+    <string-array name="divison_list">
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Khulna</item>
+        <item>Sylhet</item>
+        <item>Rajshahi</item>
+        <item>Barisal</item>
+        <item>Rangpur</item>
+    </string-array>
+
+    <string-array name="count_times">
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>8</item>
+        <item>10</item>
+    </string-array>
+
+    <string name="email">farhansadaf@outlook.com</string>
+
+</resources>

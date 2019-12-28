@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SettingsActivity">
+    <include
+        android:id="@+id/activity_settings_toolbar"
+        layout="@layout/activity_toolbar">
+
+    </include>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:weightSum="6"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:weightSum="5"
+            android:layout_height="0dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginTop="20dp"
+                android:layout_weight="3"
+                android:layout_height="0dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="35dp"
+                    android:paddingLeft="20dp"
+                    android:textColor="@android:color/black"
+                    android:layout_marginLeft="10dp"
+                    android:text="Name:"
+                    />
+                <TextView
+                    android:id="@+id/nameTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="35dp"
+                    android:paddingLeft="10dp"
+                    android:textColor="@android:color/black"
+                    />
+            </LinearLayout>
+
+            <TextView
+                android:layout_weight="2"
+                android:id="@+id/changenameTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="Change name"
+                android:textColor="@android:color/black"
+                android:textIsSelectable="false"
+                android:textSize="15dp" />
+        </LinearLayout>
+
+
+
+
+        <LinearLayout
+            android:layout_weight="5"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:weightSum="7"
+            android:layout_height="0dp">
+            <TextView
+                android:layout_weight="0.6"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginLeft="10dp"
+                android:paddingLeft="20dp"
+                android:text="Phone Numbers:"
+                android:textColor="@android:color/black"
+                android:textSize="40dp" />
+
+            <ListView
+                android:layout_weight="5.3"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:dividerHeight="10dp"
+                android:divider="@null"
+                android:id="@+id/phoneListView"
+                android:layout_width="match_parent"
+                android:layout_height="0dp">
+
+            </ListView>
+
+            <TextView
+                android:layout_weight="0.4"
+                android:id="@+id/addnumberTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:text="Add phone number"
+                android:textSize="15dp"
+                android:layout_gravity="center"
+                android:textIsSelectable="false"
+                android:textColor="@android:color/black"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</LinearLayout>
