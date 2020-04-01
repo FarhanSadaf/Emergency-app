@@ -35,3 +35,5 @@ As UI design elements, I used Custom TOOLBAR, CARDVIEW, LISTVIEW, EXPANDABLE LIS
 As the app needs to be opened in background, i had to use Custom NOTIFICATION CHANNEL and BroadcastReceiver.
 
 I also had to implement functionalities to make a CALL, send MESSAGE, send custom EMAIL or using VIBRATOR etc.
+
+<p><br/>Project - CSE 2200 (Advanced Programming)</p>
