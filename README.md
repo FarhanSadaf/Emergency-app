@@ -1,6 +1,6 @@
 # BACHAO
-As name suggests, it is an emergency android application. Situations can arrive when one may need to let his family and friends know that they are in DANGER.
-Though some mobile phones have a built in app to serve this, but most of them only calls to a emergency number only (999 or so).
+As name suggests, it is an emergency android application. Situations can arrive when one may need to let his family and friends know that he/she is in DANGER.
+Though some mobile phones have a built-in app to tackle this situation, but most of them only calls to a emergency number only (999 or so).
 So they lack some functionalities like MESSAGING the close ones to let them know that the victim is in danger or sending LOCATION of victim to them.
 This app brings out just these.
 
