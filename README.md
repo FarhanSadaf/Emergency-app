@@ -37,3 +37,5 @@ As the app needs to be opened in background, i had to use Custom NOTIFICATION CH
 I also had to implement functionalities to make a CALL, send MESSAGE, send custom EMAIL or using VIBRATOR etc.
 
 <strong><br/>Project - CSE 2200 (Advanced Programming)</strong>
+
+Licensed under the [MIT License](LICENSE).
