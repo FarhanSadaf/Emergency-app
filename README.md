@@ -24,11 +24,11 @@ User can activate Danger Mode just TAPPING POWER BUTTON MORE THAN 4 TIMES (API l
     <th>Login</th>
   </tr>
   <tr>
-    <td>
-      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/1-create%20account.jpg" height=400px>
+    <td width=33%>
+      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/1-create%20account.jpg">
     </td>
-    <td>
-      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/2-login.jpg" height=400px>
+    <td width=33%>
+      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/2-login.jpg">
     </td>
   </tr>
   
@@ -37,11 +37,11 @@ User can activate Danger Mode just TAPPING POWER BUTTON MORE THAN 4 TIMES (API l
     <th>Home screen</th>
   </tr>
   <tr>
-    <td>
-      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/3-welcome%20screen.jpg" height=400px>
+    <td width=33%>
+      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/3-welcome%20screen.jpg">
     </td>
-    <td>
-      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/4-home%20screen.jpg" height=400px>
+    <td width=33%>
+      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/4-home%20screen.jpg">
     </td>
   </tr>
   
@@ -51,14 +51,14 @@ User can activate Danger Mode just TAPPING POWER BUTTON MORE THAN 4 TIMES (API l
     <th>Advanced settings window</th>
   </tr>
   <tr>
-    <td>
-      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/5-settings%20screen.jpg" height=400px>
+    <td width=33%>
+      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/5-settings%20screen.jpg">
     </td>
-    <td>
-      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/6-%20settings%20update%20numbers.jpg" height=400px>
+    <td width=33%>
+      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/6-%20settings%20update%20numbers.jpg">
     </td>
-    <td>
-      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/7-advanced%20settings%20screen.jpg" height=400px>
+    <td width=33%>
+      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/7-advanced%20settings%20screen.jpg">
     </td>
   </tr>
   
@@ -67,11 +67,11 @@ User can activate Danger Mode just TAPPING POWER BUTTON MORE THAN 4 TIMES (API l
     <th>After 4+ tap on power button</th>
   </tr>
   <tr>
-    <td>
-      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/8-emergency.jpg" height=400px>
+    <td width=33%>
+      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/8-emergency.jpg">
     </td>
-    <td>
-      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/9-emergency%20after%20pressing%20power%20button.jpg" height=400px>
+    <td width=33%>
+      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/9-emergency%20after%20pressing%20power%20button.jpg">
     </td>
   </tr>
   
@@ -80,11 +80,11 @@ User can activate Danger Mode just TAPPING POWER BUTTON MORE THAN 4 TIMES (API l
     <th>Detailed emergency contacts</th>
   </tr>
   <tr>
-    <td>
-      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/10-emergency%20contacts.jpg" height=400px>
+    <td width=33%>
+      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/10-emergency%20contacts.jpg">
     </td>
-    <td>
-      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/11-emergency%20contacts%20(2).jpg" height=400px>
+    <td width=33%>
+      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/11-emergency%20contacts%20(2).jpg">
     </td>
   </tr>
   
@@ -92,8 +92,8 @@ User can activate Danger Mode just TAPPING POWER BUTTON MORE THAN 4 TIMES (API l
     <th>Sidebar</th>
   </tr>
   <tr>
-    <td>
-      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/12-side%20bar.jpg" height=400px>
+    <td width=33%>
+      <img src="https://github.com/FarhanSadaf/Emergency-app/blob/master/tutorials/12-side%20bar.jpg">
     </td>
   </tr>
 </table>
